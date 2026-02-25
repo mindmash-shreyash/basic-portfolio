@@ -25,7 +25,3 @@ The website is fully responsive and adapts smoothly to different screen sizes us
 
 ## 🚀 Purpose
 This portfolio is created to showcase my projects, skills, and frontend development abilities in a clean and visually appealing way.
-
----
-
-Feel free to explore the projects and reach out through the contact section!
